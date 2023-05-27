@@ -1,1 +1,0 @@
-for starting the game, clicking on "alien_invasion.py". thank you
